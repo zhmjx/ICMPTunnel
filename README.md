@@ -1,2 +1,2 @@
 # ICMPTunnel
-ICMP 远控
+ICMP 隧道远控
